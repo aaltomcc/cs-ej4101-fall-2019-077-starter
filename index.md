@@ -6,4 +6,4 @@ I am a curious person and I see it important to be well-aware of hot trends in t
 
 Link to the [blog](diary-077.md)
 
-![cup.jpg]
+![cup](cup.jpg)

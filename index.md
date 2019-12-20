@@ -1,4 +1,4 @@
-#About me
+# About me
 
 I graduated couple of years ago from Aalto University with the master’s degree in technology and currently I am working as an IT-consultant doing mostly testing. However, a pure software engineering is not my ideal job and next January I will start at a new position as a data scientist. This course will be part of my bachelor’s degree in Aalto School of Business, which I am pursuing along work.
 
